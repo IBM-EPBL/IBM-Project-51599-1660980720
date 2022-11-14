@@ -26,3 +26,31 @@ Our goal is to develop a system for real time quality assessment for water healt
 To measure various chemical and physical properties of water like pH, temperature and particle density of water using sensors.
 Send the data collected and send it to IBM cloud based Database
 Send alert messages when any discrepancies are found in the water quality
+
+
+# Skills required :
+   Python
+   
+   IOT Cloud Platform
+   
+   IBM Cloud
+   
+   Node- RED
+   
+   IBM IoT Platform
+   
+   IBM Nodered
+   
+   IBM Cloudant DB
+   
+   
+# The Beneficial Users :
+    Farmer
+    
+    Common People
+    
+    Wild Animals
+    
+    Birds
+    
+    Marine Animals
